@@ -1,6 +1,6 @@
 # Python-MongoDBwDocker
 
-Create image 
+Create docker image 
 
 1. docker build -t python-mongo .  
 
@@ -11,3 +11,6 @@ Run docker compose file
 3. Access python script input "docker exec -it container_id /bin/bash"
 4. python3 main.py
 5. "insert" or "list" inputs are available. 
+
+
+localhost:8080 for mongo-express
