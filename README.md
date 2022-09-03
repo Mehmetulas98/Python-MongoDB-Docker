@@ -1,6 +1,10 @@
 # Python-MongoDBwDocker
 
+Create image 
 
+1. docker build -t python-mongo .  
+
+Run docker compose file
 
 1. run "docker-compose -f  docker-compose.yaml up"
 2. Mongo Express can be reached from localhost:8080
