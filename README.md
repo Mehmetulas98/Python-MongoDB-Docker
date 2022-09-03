@@ -13,4 +13,4 @@ Run docker compose file
 5. "insert" or "list" inputs are available. 
 
 
-localhost:8080 for mongo-express
+
